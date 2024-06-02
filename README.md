@@ -1,8 +1,8 @@
 # Code_Alpha_Credit_Scoring_Model
 This repository contains a credit scoring model built using machine learning techniques to predict the creditworthiness of individuals based on various features. The model is trained on a dataset containing historical data of individuals' attributes and their creditworthiness status.
+
 #Dataset
 The dataset used for training the model (data_test.csv) consists of the following columns:
-
 Language: Language spoken by the individual
 Sex: Gender of the individual
 Marital: Marital status of the individual
